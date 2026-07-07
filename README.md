@@ -421,7 +421,7 @@ index.html
     <div class="contact-terminal">
       <p class="line"><span class="prompt">$</span> contact --info</p>
       <p class="line">&gt; phone: 676 533 009</p>
-      <p class="line">&gt; email: <a href="mailto:your.email@example.com">[your.email@example.com]</a></p>
+      <p class="line">&gt; email: <a href="mailto:your.email.com">[yikeycindy@gmail.com]</a></p>
       <p class="line">&gt; github: <a href="https://github.com/yikeycindy-beep">github.com/yikeycindy-beep</a></p>
     </div>
   </section>
